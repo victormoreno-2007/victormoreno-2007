@@ -49,7 +49,7 @@ Me apasiona el trabajo colaborativo bajo metodologías ágiles (Scrum) y aporto 
         <b>Construrenta</b>
       </td>
   <td align="center">
-        <a href="[https://github.com/victormoreno-2007/proyecto-spring-boot](https://github.com/victormoreno-2007/ProjectJavascript)">
+        <a href="https://project-javascript-3yyh5oqpj-victor-morenos-projects-91b4041e.vercel.app/">
           <img src="https://ojkfakf9vvsup9re.public.blob.vercel-storage.com/Captura%20de%20pantalla%202025-09-04%20225438.png" alt="Construrenta" width="300"/>
         </a>
         <br>
