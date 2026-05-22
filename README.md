@@ -65,7 +65,7 @@ Me apasiona el trabajo colaborativo bajo metodologías ágiles (Scrum) y aporto 
   <a href="https://www.linkedin.com/in/victor-moreno-931b42386/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portafolio-victor-940075.netlify.app">
+  <a href="https://portafolio-nine-brown.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portafolio"/>
   </a>
 </div>
